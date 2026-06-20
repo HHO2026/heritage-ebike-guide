@@ -49,4 +49,28 @@ height:600px;
 width:100%;
 
 }
+#locateBtn {
 
+position:fixed;
+
+bottom:20px;
+
+left:50%;
+
+transform:translateX(-50%);
+
+background:#0b3d91;
+
+color:white;
+
+border:none;
+
+padding:15px 25px;
+
+border-radius:30px;
+
+font-size:16px;
+
+z-index:999;
+
+}
